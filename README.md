@@ -2,7 +2,7 @@
 # My personal REPOSITORY
 <br>
 ## This is my first readme file
-**bold**
+__bold__
 <br>
 learning git and github
 **newbies**
