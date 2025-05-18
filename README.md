@@ -1,6 +1,7 @@
 # Rakshit
-My personal REPOSITORY
+#My personal REPOSITORY
 <br>
-This is my first readme file
+###This is my first readme file
 <br>
-learning git and github
+##learning git and github
+**newbies**
